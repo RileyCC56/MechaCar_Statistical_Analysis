@@ -17,3 +17,10 @@ The design specifications for the MechaCar suspension coils dictate that the var
  ## T-Tests on Suspension Coils:
  
  then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+
+## Study Design: MechaCar vs Competition:
+
+What metric or metrics are you going to test?
+What is the null hypothesis or alternative hypothesis?
+What statistical test would you use to test the hypothesis? And why?
+What data is needed to run the statistical test?
