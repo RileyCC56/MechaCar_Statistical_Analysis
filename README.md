@@ -9,7 +9,7 @@ A special project from AutosRUs’ is working on a new prototype called the Mech
 
 - As per our Coefficients the vehicle length and ground clearance greatly affect the significance over the vehicle weight and spoiler angle in which provides a non-random amount of variance to the mpg values within our dataset.
 - Within our linear model, the slope is not considered to be zero. As the p-value states a 5.35e-11 result which further concludes that the null hypothesis will be rejected moving forward given our current dataset.
-- This linear model will predict that the mpg of a MechaCar prototype will be 71% accurate. The regression model has a R-value of 0.71 which strongly suggests a connection between the data’s variables of the vehicle’s length, weight, spoiler angle, ground clearance and AWD to tie-up with the MPG of the MechaCar protoype.
+- This linear model will predict that the mpg of a MechaCar prototype will be 71% accurate. The regression model has a R-value of 0.71 which strongly suggests a connection between the data’s variables of the vehicle’s length, weight, spoiler angle, ground clearance and AWD to tie-up with the MPG of the MechaCar prototype.
 
 
 ## Summary Statistics on Suspension Coils:
@@ -52,5 +52,5 @@ The Alternative Hypothesis is that MechaCars have different, if not better price
 
 In order to test our hypothesis, we would use a One-Sample t-Test as we would like to see if there is a statistical difference between the mean of the sample and the mean of a population distribution. 
 
-To conduct this study we will need the MechaCars fuel efficiency data as well as the mean data from its competitors.
+To conduct this study, we will need the MechaCars fuel efficiency data as well as the mean data from its competitors.
 
