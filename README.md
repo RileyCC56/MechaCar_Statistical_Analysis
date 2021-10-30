@@ -25,7 +25,7 @@ The design specification does meet the current manufacturing data. The variance 
 
  ## T-Tests on Suspension Coils:
  
- An overview of the One Sample t-test of the suspension coils across all of the manufacturing lots returns a p-value result of .06 which concludes that we are unable to reject the null hypothesis.!
+ An overview of the One Sample t-test of the suspension coils across all of the manufacturing lots returns a p-value result of .06 which concludes that we are unable to reject the null hypothesis.
 
 ![T_test1](https://user-images.githubusercontent.com/81484054/127749783-3eb0bd12-76c1-4ca7-92b8-72ecbc52f933.png)
 
